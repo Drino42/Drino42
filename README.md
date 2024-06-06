@@ -1,16 +1,19 @@
-## Hi there 👋
+ ###Esse aqui é meu perfil
 
-<!--
-**Drino42/Drino42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é danil lima
 
-Here are some ideas to get you started:
+Estou estudando no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo no JavaScript
+
+vou usar esse local para meus projetos e etc...
+
+nas Você entra en contato comigo aqui!
+
+00001111028734sp@al.educacao.sp.gov
+
+
+![](https://media.tenor.com/TM0Xkja0docAAAAi/cr7-si.gif)
+
+
+![](https://media1.tenor.com/m/tSDmPTx7B5oAAAAC/regular-show.gif)
